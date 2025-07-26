@@ -24,5 +24,5 @@ A simple number guessing game built using **Java Swing**. The user is given 10 a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/bhashitha2301/java-number-guessing-game.git
-   cd java-number-guessing-game
+   git clone https://github.com/bhashitha2301/codsoft/blob/main/StyledNumberGuessingGame.java
+   cd StyledNumberGuessingGame
